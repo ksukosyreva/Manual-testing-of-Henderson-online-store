@@ -16,7 +16,7 @@
 - [Тестирование требований](./requirements_testing.md)
 - [Скриншоты тестирования вёртски](./layout_testing.md)
 - [Скриншот результата API-тестирования](./API_testing.md)
-- **Баг-репорты** — оформлены в разделе [Issues]([ссылка_на_вкладку_issues_вашего_репозитория](https://github.com/ksukosyreva/Manual-testing-of-Henderson-online-store/issues/)) с приложением скриншотов.
+- **Баг-репорты** — оформлены в разделе [Issues](https://github.com/ksukosyreva/Manual-testing-of-Henderson-online-store/issues/) с приложением скриншотов.
 
 ## Найденные дефекты (6 багов)
 В ходе тестирования были выявлены и задокументированы дефекты, в том числе:
